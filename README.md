@@ -37,7 +37,7 @@ JavaScriptとかPHPが好きな学生です。
 
 ## と、いう訳で
 JavaScriptは出来てもReactが一切さっぱりピーマンだった私が出したPRです。  
-https://github.com/Kirishima21/mastodon/pull/21
+[Kirishima21/mastodon#21](https://github.com/Kirishima21/mastodon/pull/21)
 
 多分直接DOMを操作している時点でReactとは呼べない気がしますが、一応それっぽいコードは書けました。
 
@@ -53,6 +53,6 @@ https://github.com/Kirishima21/mastodon/pull/21
 # 最後に
 期末テスト、ヤバい。
 
-あとクソどうでも良いけど今日(12/3)私の誕生日なのでもし良ければ https://knzk.me/@y に「おめでとーーーー！！！」ってリプ投げまくってくれると嬉しいです。
+あとクソどうでも良いけど今日(12/3)私の誕生日なのでもし良ければ [@y@knzk.me](https://knzk.me/@y) に「おめでとーーーー！！！」ってリプ投げまくってくれると嬉しいです。
 
-> 干し芋投げてくれると嬉しいなー！（ http://amzn.asia/cjmzTWf
+> [干し芋](http://amzn.asia/cjmzTWf)投げてくれると嬉しいなー！（
